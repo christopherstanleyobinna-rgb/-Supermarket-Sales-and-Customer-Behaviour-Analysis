@@ -21,12 +21,18 @@ The dataset includes:
 
 •	Tax generated
 
+
 # 🛠 Tools & Techniques
-![](clean_supermarket.jpg)
+![](https://github.com/christopherstanleyobinna-rgb/-Supermarket-Sales-and-Customer-Behaviour-Analysis/blob/main/clean_%20supermarket.jpg)
+
 •	Excel Power Query → Data cleaning
+
 •	Excel Formulas & Functions → Data manipulation
+
 •	Pivot Tables & Charts → Analysis
+
 •	Excel Dashboards → Visualization
+
 
 ## 📊 Key Performance Overview  
 - **Total Revenue:** $322,967  
@@ -34,7 +40,8 @@ The dataset includes:
 - **Average Sales per Transaction:** $322.97  
 - **Tax Collected:** $15,379.36  
 - **Best Day for Sales:** Saturday  
-- **Peak Rush Hours:** 1:00 PM – 3:00 PM  
+- **Peak Rush Hours:** 1:00 PM – 3:00 PM
+ ---
 
 ## 📅 Sales Performance  
 ![](supermarket_Dashboard.jpg)
@@ -103,4 +110,5 @@ The dataset includes:
 
 ## 🏁 Conclusion  
 ![](https://github.com/christopherstanleyobinna-rgb/-Supermarket-Sales-and-Customer-Behaviour-Analysis/blob/main/supermarket%20image.jpg)
+
 The supermarket generated **$322,967** in revenue from **1,000 transactions**, showing solid performance. Branch C sets the benchmark in both sales and customer satisfaction, while Branch B requires strategic attention. Leveraging high-performing categories and addressing weaker areas will ensure **balanced growth and improved customer experience**.  
