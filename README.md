@@ -22,7 +22,7 @@ The dataset includes:
 •	Tax generated
 
 # 🛠 Tools & Techniques
-![](clea_supermarket.jpg)
+![](clean_supermarket.jpg)
 •	Excel Power Query → Data cleaning
 •	Excel Formulas & Functions → Data manipulation
 •	Pivot Tables & Charts → Analysis
@@ -102,9 +102,5 @@ The dataset includes:
 ---
 
 ## 🏁 Conclusion  
-![](supermarket image.jpg)
+![](https://github.com/christopherstanleyobinna-rgb/-Supermarket-Sales-and-Customer-Behaviour-Analysis/blob/main/supermarket%20image.jpg)
 The supermarket generated **$322,967** in revenue from **1,000 transactions**, showing solid performance. Branch C sets the benchmark in both sales and customer satisfaction, while Branch B requires strategic attention. Leveraging high-performing categories and addressing weaker areas will ensure **balanced growth and improved customer experience**.  
-
----
-
-## 📂 Repository Structure  
